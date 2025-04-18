@@ -28,4 +28,4 @@ syslog_ssl_verfify: false
 
 In case you've found a bug, please [open an issue on GitHub][issue].
 
-[issue]: https://github.com/mib1185/ha-addon-syslog/issues
+[issue]: https://github.com/briangunderson/ha-addon-syslog/issues
